@@ -18,6 +18,10 @@ This repository focuses on:
 - First-frame Wallkicks (Firsties)
 - Bomb Clip
 - Triple Jump Dive (TJD)
+- C-Up Slide
+- Speed Kick
+
++ YouTube links to useful stuff.
 
 More tricks may be added over time.
 
