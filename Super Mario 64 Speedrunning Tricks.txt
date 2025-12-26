@@ -1,0 +1,186 @@
+Speedrunning tricks for Super Mario 64
+by: viyxzh
+
+1. Backwards Long Jump
+
+The Backwards Long Jump, or BLJ for short, is a trick that consists of developing insanely high speeds (a.k.a Hyperspeed)
+using a long jump facing backwards.
+How it works:
+When mario long jumps, his speed is multiplied by 1.5x, 
+but its immediately capped to 48. However, Nintendo's developers
+forgot to cap backwards speed, so with that, 
+mario can reach negative infinity. For that, mario will 
+need a place where he can jump then land immediately,
+so that he can jump multiple times. These specific
+places are Stairs, Slopes, Low ceilings, Moving elevators and barriers
+that separates out of bounds area with in bounds area.
+Inputs:
+1: perform a long jump while moving in
+any direction, then pressing [Z, then immediately A.]
+2: Immediately after that, move reverse the direction you move,
+like front to back.
+3: After landing on the place, Hold [Z] then MASH [A]
+while holding the joystick back.
+4: Keep holding [Z] and keep mashing [A].
+5: To break out of your spot (if in a low ceiling),
+release [Z] and try to move somewhere.
+
+2. Lakitu Skip
+This trick consists of skipping lakitu's dialogue
+on the start of the game with precise movement.
+How it works:
+Lakitu normally speaks to Mario at the start of the game, 
+which is controlled by a large trigger area that 
+spans the entire bridge, except for a tiny sliver on
+each horizontal side. If Mario only steps on the
+extreme edge of the bridge, Lakitu never decides
+to have a chat with the player
+Inputs:
+There are no specific inputs for this,
+although, you'l need visual cues for
+that, well, its recommended to spam [Z] 
+and [A] to perform long jumps.
+be careful while doing this trick.
+With enough practice, you'll know
+how to do it without being hard.
+
+3. Cannonless (Whomp's Fortress)
+This consists of getting the star
+"Blast Away The Wall" without cannons
+How it works:
+Normally, you use a cannon to blow yourself in
+the wall beneath the rotating platform, so
+you get the Power Star trapped inside there.
+Although, the breakable wall was placed
+uncorrectly in a vertical number of 1 unit of length;
+this allows the other wall underneath the specific one
+to make room so we have a ledge. Since Mario can grab
+a ledge when falling, the trick falls to aim among
+the underneath wall and the breakable one
+to perform the ledge grab, and if the star's
+hitbox lines up with mario's current relative
+position hitbox, he will get the star.
+Inputs:
+Use the Joystick and get a precise
+position and speed to line up with the ledge.
+
+4. First-frame wallkicks
+First frame wallkicks or Firsties for short, consists of
+wallkicking in the wall in frame-perfect input.
+How it works:
+A wallkick has 2 parts: first, Mario bonks on the wall,
+losing all his speed. Then, if [A] is pressed within a 
+5-frame window, he performs a wallkick, automatically 
+gaining 24 speed in the direction reflecting off the wall.
+But if [A] is pressed on the first possible frame of the
+wallkick window, Mario doesn't have time to lose all his
+speed and he kicks off the wall with the same speed he
+had previously.
+Inputs:
+1: Press [A] to jump, facing a wall.
+2: Press [A] again in the first
+possible frame of the 5-frame window.
+
+tip: after the wallkick, hold [A] for 0.3
+seconds to reach higher heights.
+
+5. Bomb Clip (Bob-omb Battlefield)
+This trick consists of clipping through a wall using an explosion.
+
+How it works:
+When Mario takes explosive knockback, the game forcibly moves him out of
+the explosion hitbox. If Mario is positioned close enough to a wall or
+corner, this displacement can push him through collision. Bomb-ombs
+produce a strong knockback that is consistent and reusable, making them
+ideal for clips. The angle and distance from the wall determine whether
+Mario is pushed inside or through the geometry.
+
+Inputs:
+1: Get close to a Bob-omb and press [B] to hold it.
+2: Jump [A] and throw it mid-air with [B] while facing
+right.
+3: Immediately after the throwing animation starts, move
+the stick to the right.
+4: This will cause Mario to get closer to the
+Bob-omb while throwing.
+5: While the Bob-omb dramatically gets
+bigger for a third of a second, grab the
+Bob-omb as fast as possible.
+6: This will cause the Bob-omb to push Mario backwards
+so forcibly you can clip walls, but clip specifically
+the cage behind the Chain Chomp.
+7: When Mario touches the wall, release it
+with [B], and grab the star.
+
+tip: While Mario grabs the Bob-omb, he can do all
+sorts of unintended actions like ground pound
+and double jumping.
+
+tip 2: facing slightly away from the 
+wall increases consistency.
+
+6. Triple Jump Dive (TJD)
+
+This trick consists of gaining extra horizontal distance by diving at the
+peak of a triple jump.
+
+How it works:
+A triple jump gives Mario his highest vertical velocity. Diving near the
+peak converts part of this vertical speed into forward momentum. Because
+the dive preserves speed better than normal air movement, this results in
+a longer and faster trajectory than a standard triple jump.
+
+Inputs:
+1: Build momentum and speed for the process.
+2: Press [A] three times in the intended timing
+to perform a triple jump.
+3: At or near the peak of the triple jump, 
+press [B] to dive.
+4: Hold the stick forward to maintain direction.
+
+Tip: diving too early kills height, 
+diving too late kills distance.
+
+7. C-Up Slide
+
+This trick consists of sliding on steep slopes that normally make Mario
+slip off.
+
+How it works:
+When the C-Up camera is active, Mario’s intended movement direction is
+slightly altered. On certain slopes, this causes the game to treat Mario as
+walking sideways relative to the slope, preventing him from sliding off.
+This allows Mario to walk or jump on otherwise unwalkable terrain.
+
+Inputs:
+1: Press [C-Up]
+2: Walk onto a slope at a slight angle.
+3: Adjust the joystick carefully to avoid slipping.
+4: Jump when needed to maintain position.
+
+8. Speed Kick
+
+This trick consists of preserving speed by kicking in the
+air instead of diving.
+
+How it works:
+If Mario performs a kick shortly after touching the ground, his landing
+speed is preserved and converted into forward momentum. Since kicks don't
+interfer with Mario's speed, he can preserve it from kicking.
+
+Inputs:
+1: Press [A]
+2: Hold the stick VERY next to Neutral (idle)
+3: Press [B] then immediately move the stick
+the direction Mario was going.
+
+Useful YT Links:
+
+The Perfect Mario 64 Speedrun Explained:
+https://www.youtube.com/watch?v=ZMp0VwztcNw
+Super Mario 64 TAS world record explained:
+https://youtu.be/wjge1bVobN0?si=Ig8DT87zE_yCV5om
+Super Mario 64 Speedrun Movement Guide:
+https://youtu.be/tyu1KO3x5Ps?si=2zglci9yk-23gjtu
+1 Key TAS in 4:21"67:
+https://youtu.be/j5j6l9ULxmI?si=g-XkcpeOEwR8jVZF
