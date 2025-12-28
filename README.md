@@ -18,10 +18,11 @@ This repository focuses on:
 - First-frame Wallkicks (Firsties)
 - Bomb Clip
 - Triple Jump Dive (TJD)
-- C-Up Slide
+- C-Up Hyperslide
 - Speed Kick
 
-+ YouTube links to useful stuff.
++ YouTube links to useful stuff
++ ROM's for each region recommendations
 
 More tricks may be added over time.
 
